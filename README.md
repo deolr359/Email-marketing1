@@ -1,5 +1,5 @@
 Responsive HTML Email Template<br>
-• Table-based layout
-• Inline CSS
-• Mobile responsive
+• Table-based layout<br>
+• Inline CSS<br>
+• Mobile responsive<br>
 • Gmail & Outlook compatible
