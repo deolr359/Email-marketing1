@@ -1,4 +1,4 @@
-Responsive HTML Email Template
+Responsive HTML Email Template<br>
 • Table-based layout
 • Inline CSS
 • Mobile responsive
